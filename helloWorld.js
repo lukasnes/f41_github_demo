@@ -61,3 +61,6 @@ if(temperature < 50){
 } else {
     console.log("It's a warm day!")
 }
+
+
+console.log("Pushing to github is fun!")
